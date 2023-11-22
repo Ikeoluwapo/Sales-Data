@@ -10,19 +10,14 @@ The Use of Excel tool for Data Cleaning, Analyzing and Modeling
 
 ## Problems Addressed
 * Year with the highest sales
-
 * Sales Per Type and Salesperson
-
 * Salesperson with the highest number of sales
-  
 * Type with highest quantity units
-
 * Trend of Orders 
-
 * Sales per Region
 
 ## Screenshots
-![Sales for Past Three Years](https://github.com/Ikeoluwapo/Excel-Journey-/blob/main/SALES%20FOR%20THE%20PAST%20THREE%20YEARS.png?raw=true)
+![Sales for Past Three Years](https://github.com/Ikeoluwapo/Sales-Data/blob/6d169405dc361e878c29b5d9bf775a2ee5a0b205/SALES%20FOR%20THE%20PAST%20THREE%20YEARS.png?raw=true)
 
 #### Let's Connect
 
